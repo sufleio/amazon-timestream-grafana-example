@@ -1,5 +1,7 @@
 This example demonstrates how to load sample data to Amazon Timestream with using Python and boto3. We used [One Call API](https://openweathermap.org/api/one-call-api) of OpenWeatherMap to fetch temperature, feels-like temperature and humidity data for last five days.
 
+You can check out the blog post about this project at https://sufle.io/blog/data-visualization-with-amazon-timestream-and-grafana
+
 ## Requirements
 - python +3.7
 - pip
